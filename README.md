@@ -1,10 +1,12 @@
 # MLBasics
-A repositorie to record Machine Learning exercises
+A repositorie to record Machine Learning exercises and theory.
 
-
-## DeepLearning
 In the following a short description of the exercises. A detailed description can be found in the corresponding subfolders in a readme or in a jupyter notebook.
 
+## DeepLearning
+
 ### 01_SimpleNeuralNetForMnistNumberRecognition
-- simple neural network step-by-step implementation for number recognition based on the MNIST dataset.
-- explanation of the code fragments and additional information about them
+- Jupyter Notebook 
+- step-by-step implementation and explanation of a neural network for number recognition 
+- based on the MNIST dataset
+- additional information about normal distribution for initializing the weights
